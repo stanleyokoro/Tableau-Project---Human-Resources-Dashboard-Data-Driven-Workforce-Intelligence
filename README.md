@@ -57,10 +57,7 @@ This project delivers a robust, self-updating Tableau dashboard built for Human 
 
 ## 📥 How to Use
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/HR-Dashboard-Workforce-Intelligence.git
-   ```
+1. Clone this repository.
 2. Open the `.twbx` file in Tableau Desktop.
 3. Replace sample data with your organization’s data.
 4. Customize filters, groups, or visual elements as needed.
